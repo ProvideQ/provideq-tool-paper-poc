@@ -1,0 +1,3 @@
+[submodule "toolbox_python_api"]
+	path = toolbox_python_api
+	url = git@github.com:ProvideQ/toolbox-python-api.git
