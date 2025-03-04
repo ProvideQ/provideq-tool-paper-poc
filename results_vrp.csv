@@ -1,0 +1,224 @@
+Problemname,Solvername,Execution Time (ms),Solution (Kilometer)
+P-n7_2.vrp,Optimal Solution (with Clustering),0,184.6298725098411
+P-n7_2.vrp,Optimal Solution (with Clustering),0,184.6298725098411
+P-n5_1.vrp,Optimal Solution (with Clustering),0,120.86493679463923
+P-n7_1.vrp,Optimal Solution (with Clustering),0,134.93748687048614
+P-n5_2.vrp,Optimal Solution (with Clustering),0,294.5803512050499
+P-n6_1.vrp,Optimal Solution (with Clustering),0,130.90826335380046
+P-n4_2.vrp,Optimal Solution (with Clustering),0,96.48968970007736
+P-n6_2.vrp,Optimal Solution (with Clustering),0,129.62000745965602
+P-n4_1.vrp,Optimal Solution (with Clustering),0,69.42267128415534
+P-n8_1.vrp,Optimal Solution (with Clustering),0,143.32898751275195
+P-n8_2.vrp,Optimal Solution (with Clustering),0,225.1585968547109
+P-n7_2.vrp,Optimal Solution (without Clustering),0,162.6331014432223
+P-n5_1.vrp,Optimal Solution (without Clustering),0,94.59115785661595
+P-n7_1.vrp,Optimal Solution (without Clustering),0,132.45715588419614
+P-n5_2.vrp,Optimal Solution (without Clustering),0,294.5803512050499
+P-n6_1.vrp,Optimal Solution (without Clustering),0,118.38294155100263
+P-n4_2.vrp,Optimal Solution (without Clustering),0,96.48968970007736
+P-n6_2.vrp,Optimal Solution (without Clustering),0,121.30930104781318
+P-n4_1.vrp,Optimal Solution (without Clustering),0,69.42267128415534
+P-n8_1.vrp,Optimal Solution (without Clustering),0,136.09861281129906
+P-n8_2.vrp,Optimal Solution (without Clustering),0,225.54320932100495
+
+P-n7_2.vrp,2-Phase with LKH-3,685,184.6298725098411
+P-n7_2.vrp,2-Phase with LKH-3,696,184.6298725098411
+P-n5_1.vrp,2-Phase with LKH-3,690,120.86493679463923
+P-n7_1.vrp,2-Phase with LKH-3,703,134.93748687048614
+P-n5_2.vrp,2-Phase with LKH-3,682,294.5803512050499
+P-n6_1.vrp,2-Phase with LKH-3,719,130.90826335380046
+P-n4_2.vrp,2-Phase with LKH-3,498,96.48968970007736
+P-n6_2.vrp,2-Phase with LKH-3,695,129.62000745965602
+P-n4_1.vrp,2-Phase with LKH-3,438,69.42267128415534
+P-n8_1.vrp,2-Phase with LKH-3,792,143.32898751275195
+P-n8_2.vrp,2-Phase with LKH-3,930,225.1585968547109
+P-n7_2.vrp,2-Phase with D-Wave,5461,192.505635051782
+P-n5_1.vrp,2-Phase with D-Wave,3811,120.86493679463923
+P-n7_1.vrp,2-Phase with D-Wave,5436,134.93748687048614
+P-n5_2.vrp,2-Phase with D-Wave,3775,294.5803512050499
+P-n6_1.vrp,2-Phase with D-Wave,4192,130.90826335380046
+P-n4_2.vrp,2-Phase with D-Wave,2633,96.48968970007735
+P-n6_2.vrp,2-Phase with D-Wave,5121,144.52852094292507
+P-n4_1.vrp,2-Phase with D-Wave,2638,69.42267128415534
+P-n8_1.vrp,2-Phase with D-Wave,7398,156.37418569519002
+P-n8_2.vrp,2-Phase with D-Wave,7652,262.71128831350927
+P-n7_2.vrp,2-Phase with LKH-3,792,184.6298725098411
+P-n5_1.vrp,2-Phase with LKH-3,706,120.86493679463923
+P-n7_1.vrp,2-Phase with LKH-3,702,134.93748687048614
+P-n5_2.vrp,2-Phase with LKH-3,718,294.5803512050499
+P-n6_1.vrp,2-Phase with LKH-3,708,130.90826335380046
+P-n4_2.vrp,2-Phase with LKH-3,489,96.48968970007736
+P-n6_2.vrp,2-Phase with LKH-3,660,129.62000745965602
+P-n4_1.vrp,2-Phase with LKH-3,435,69.42267128415534
+P-n8_1.vrp,2-Phase with LKH-3,677,143.32898751275195
+P-n8_2.vrp,2-Phase with LKH-3,797,225.1585968547109
+P-n7_2.vrp,2-Phase with D-Wave,5383,208.12627341074364
+P-n5_1.vrp,2-Phase with D-Wave,3937,125.43324376187022
+P-n7_1.vrp,2-Phase with D-Wave,5416,138.33299853224247
+P-n5_2.vrp,2-Phase with D-Wave,3904,294.5803512050499
+P-n6_1.vrp,2-Phase with D-Wave,4183,130.90826335380046
+P-n4_2.vrp,2-Phase with D-Wave,2593,97.9688472518894
+P-n6_2.vrp,2-Phase with D-Wave,5070,144.52852094292507
+P-n4_1.vrp,2-Phase with D-Wave,2621,74.11646059928054
+P-n8_1.vrp,2-Phase with D-Wave,7528,152.02491807232988
+P-n8_2.vrp,2-Phase with D-Wave,7739,231.43450342526788
+P-n7_2.vrp,2-Phase with LKH-3,672,184.6298725098411
+P-n5_1.vrp,2-Phase with LKH-3,670,120.86493679463923
+P-n7_1.vrp,2-Phase with LKH-3,661,134.93748687048614
+P-n5_2.vrp,2-Phase with LKH-3,687,294.5803512050499
+P-n6_1.vrp,2-Phase with LKH-3,682,130.90826335380046
+P-n4_2.vrp,2-Phase with LKH-3,495,96.48968970007736
+P-n6_2.vrp,2-Phase with LKH-3,710,129.62000745965602
+P-n4_1.vrp,2-Phase with LKH-3,466,69.42267128415534
+P-n8_1.vrp,2-Phase with LKH-3,709,143.32898751275195
+P-n8_2.vrp,2-Phase with LKH-3,821,225.1585968547109
+P-n7_2.vrp,2-Phase with D-Wave,5953,192.505635051782
+P-n5_1.vrp,2-Phase with D-Wave,4490,125.43324376187022
+P-n7_1.vrp,2-Phase with D-Wave,6025,138.91981955548144
+P-n5_2.vrp,2-Phase with D-Wave,4301,294.5803512050499
+P-n6_1.vrp,2-Phase with D-Wave,4851,133.77840495725354
+P-n4_2.vrp,2-Phase with D-Wave,2871,97.9688472518894
+P-n6_2.vrp,2-Phase with D-Wave,5805,144.52852094292507
+P-n4_1.vrp,2-Phase with D-Wave,2907,69.42267128415534
+P-n8_1.vrp,2-Phase with D-Wave,8247,148.25755588866843
+P-n8_2.vrp,2-Phase with D-Wave,8168,230.99962153129576
+P-n7_2.vrp,2-Phase with LKH-3,722,184.6298725098411
+P-n5_1.vrp,2-Phase with LKH-3,825,120.86493679463923
+P-n7_1.vrp,2-Phase with LKH-3,699,134.93748687048614
+P-n5_2.vrp,2-Phase with LKH-3,728,294.5803512050499
+P-n6_1.vrp,2-Phase with LKH-3,711,130.90826335380046
+P-n4_2.vrp,2-Phase with LKH-3,520,96.48968970007736
+P-n6_2.vrp,2-Phase with LKH-3,766,129.62000745965602
+P-n4_1.vrp,2-Phase with LKH-3,469,69.42267128415534
+P-n8_1.vrp,2-Phase with LKH-3,798,143.32898751275195
+P-n8_2.vrp,2-Phase with LKH-3,855,225.1585968547109
+P-n7_2.vrp,2-Phase with D-Wave,5867,192.505635051782
+P-n5_1.vrp,2-Phase with D-Wave,4541,120.86493679463923
+P-n7_1.vrp,2-Phase with D-Wave,5913,134.93748687048614
+P-n5_2.vrp,2-Phase with D-Wave,4344,294.5803512050499
+P-n6_1.vrp,2-Phase with D-Wave,4725,130.90826335380046
+P-n4_2.vrp,2-Phase with D-Wave,2986,97.9688472518894
+P-n6_2.vrp,2-Phase with D-Wave,5793,129.62000745965602
+P-n4_1.vrp,2-Phase with D-Wave,2894,69.42267128415534
+P-n8_1.vrp,2-Phase with D-Wave,8193,143.32898751275195
+P-n8_2.vrp,2-Phase with D-Wave,7843,228.71113047525938
+P-n7_2.vrp,2-Phase with LKH-3,685,184.6298725098411
+P-n5_1.vrp,2-Phase with LKH-3,700,120.86493679463923
+P-n7_1.vrp,2-Phase with LKH-3,687,134.93748687048614
+P-n5_2.vrp,2-Phase with LKH-3,720,294.5803512050499
+P-n6_1.vrp,2-Phase with LKH-3,809,130.90826335380046
+P-n4_2.vrp,2-Phase with LKH-3,485,96.48968970007736
+P-n6_2.vrp,2-Phase with LKH-3,712,129.62000745965602
+P-n4_1.vrp,2-Phase with LKH-3,473,69.42267128415534
+P-n8_1.vrp,2-Phase with LKH-3,710,143.32898751275195
+P-n8_2.vrp,2-Phase with LKH-3,857,225.1585968547109
+P-n7_2.vrp,2-Phase with D-Wave,6043,184.6298725098411
+P-n5_1.vrp,2-Phase with D-Wave,4686,120.86493679463923
+P-n7_1.vrp,2-Phase with D-Wave,6146,138.91981955548144
+P-n5_2.vrp,2-Phase with D-Wave,4427,294.5803512050499
+P-n6_1.vrp,2-Phase with D-Wave,4402,133.77840495725354
+P-n4_2.vrp,2-Phase with D-Wave,2721,96.48968970007735
+P-n6_2.vrp,2-Phase with D-Wave,5149,129.62000745965602
+P-n4_1.vrp,2-Phase with D-Wave,2738,69.42267128415534
+P-n8_1.vrp,2-Phase with D-Wave,7665,163.31752421856797
+P-n8_2.vrp,2-Phase with D-Wave,7470,225.1585968547109
+P-n7_2.vrp,2-Phase with LKH-3,719,184.6298725098411
+P-n5_1.vrp,2-Phase with LKH-3,700,120.86493679463923
+P-n7_1.vrp,2-Phase with LKH-3,732,134.93748687048614
+P-n5_2.vrp,2-Phase with LKH-3,732,294.5803512050499
+P-n6_1.vrp,2-Phase with LKH-3,718,130.90826335380046
+P-n4_2.vrp,2-Phase with LKH-3,515,96.48968970007736
+P-n6_2.vrp,2-Phase with LKH-3,721,129.62000745965602
+P-n4_1.vrp,2-Phase with LKH-3,461,69.42267128415534
+P-n8_1.vrp,2-Phase with LKH-3,721,143.32898751275195
+P-n8_2.vrp,2-Phase with LKH-3,834,225.1585968547109
+P-n7_2.vrp,2-Phase with D-Wave,5530,190.87124724782774
+P-n5_1.vrp,2-Phase with D-Wave,3885,125.43324376187022
+P-n7_1.vrp,2-Phase with D-Wave,5480,136.28838909113568
+P-n5_2.vrp,2-Phase with D-Wave,3826,294.5803512050499
+P-n6_1.vrp,2-Phase with D-Wave,4225,130.90826335380046
+P-n4_2.vrp,2-Phase with D-Wave,2635,97.9688472518894
+P-n6_2.vrp,2-Phase with D-Wave,5138,144.52852094292507
+P-n4_1.vrp,2-Phase with D-Wave,2590,74.11646059928054
+P-n8_1.vrp,2-Phase with D-Wave,7419,143.32898751275195
+P-n8_2.vrp,2-Phase with D-Wave,7629,246.70091297719927
+P-n7_2.vrp,2-Phase with LKH-3,715,184.6298725098411
+P-n5_1.vrp,2-Phase with LKH-3,709,120.86493679463923
+P-n7_1.vrp,2-Phase with LKH-3,738,134.93748687048614
+P-n5_2.vrp,2-Phase with LKH-3,726,294.5803512050499
+P-n6_1.vrp,2-Phase with LKH-3,753,130.90826335380046
+P-n4_2.vrp,2-Phase with LKH-3,518,96.48968970007736
+P-n6_2.vrp,2-Phase with LKH-3,677,129.62000745965602
+P-n4_1.vrp,2-Phase with LKH-3,457,69.42267128415534
+P-n8_1.vrp,2-Phase with LKH-3,737,143.32898751275195
+P-n8_2.vrp,2-Phase with LKH-3,800,225.1585968547109
+P-n7_2.vrp,2-Phase with D-Wave,5407,192.505635051782
+P-n5_1.vrp,2-Phase with D-Wave,3995,120.86493679463923
+P-n7_1.vrp,2-Phase with D-Wave,5457,138.33299853224247
+P-n5_2.vrp,2-Phase with D-Wave,3957,294.5803512050499
+P-n6_1.vrp,2-Phase with D-Wave,4405,130.90826335380046
+P-n4_2.vrp,2-Phase with D-Wave,2627,96.48968970007735
+P-n6_2.vrp,2-Phase with D-Wave,5028,142.46307849714913
+P-n4_1.vrp,2-Phase with D-Wave,2628,69.42267128415534
+P-n8_1.vrp,2-Phase with D-Wave,7614,163.31752421856797
+P-n8_2.vrp,2-Phase with D-Wave,7764,250.0507796622967
+P-n7_2.vrp,2-Phase with LKH-3,689,184.6298725098411
+P-n5_1.vrp,2-Phase with LKH-3,710,120.86493679463923
+P-n7_1.vrp,2-Phase with LKH-3,817,134.93748687048614
+P-n5_2.vrp,2-Phase with LKH-3,746,294.5803512050499
+P-n6_1.vrp,2-Phase with LKH-3,688,130.90826335380046
+P-n4_2.vrp,2-Phase with LKH-3,479,96.48968970007736
+P-n6_2.vrp,2-Phase with LKH-3,683,129.62000745965602
+P-n4_1.vrp,2-Phase with LKH-3,444,69.42267128415534
+P-n8_1.vrp,2-Phase with LKH-3,685,143.32898751275195
+P-n8_2.vrp,2-Phase with LKH-3,819,225.1585968547109
+P-n7_2.vrp,2-Phase with D-Wave,5409,192.505635051782
+P-n5_1.vrp,2-Phase with D-Wave,3828,120.86493679463923
+P-n7_1.vrp,2-Phase with D-Wave,5440,138.9198195554814
+P-n5_2.vrp,2-Phase with D-Wave,4601,294.5803512050499
+P-n6_1.vrp,2-Phase with D-Wave,4842,130.90826335380046
+P-n4_2.vrp,2-Phase with D-Wave,2814,96.48968970007736
+P-n6_2.vrp,2-Phase with D-Wave,5257,146.12624144290558
+P-n4_1.vrp,2-Phase with D-Wave,2607,69.42267128415534
+P-n8_1.vrp,2-Phase with D-Wave,7461,148.25755588866843
+P-n8_2.vrp,2-Phase with D-Wave,7553,225.54320932100495
+P-n7_2.vrp,2-Phase with LKH-3,755,184.6298725098411
+P-n5_1.vrp,2-Phase with LKH-3,711,120.86493679463923
+P-n7_1.vrp,2-Phase with LKH-3,718,134.93748687048614
+P-n5_2.vrp,2-Phase with LKH-3,738,294.5803512050499
+P-n6_1.vrp,2-Phase with LKH-3,698,130.90826335380046
+P-n4_2.vrp,2-Phase with LKH-3,485,96.48968970007736
+P-n6_2.vrp,2-Phase with LKH-3,697,129.62000745965602
+P-n4_1.vrp,2-Phase with LKH-3,439,69.42267128415534
+P-n8_1.vrp,2-Phase with LKH-3,726,143.32898751275195
+P-n8_2.vrp,2-Phase with LKH-3,894,225.1585968547109
+P-n7_2.vrp,2-Phase with D-Wave,5443,184.6298725098411
+P-n5_1.vrp,2-Phase with D-Wave,3864,120.86493679463923
+P-n7_1.vrp,2-Phase with D-Wave,5936,138.33299853224247
+P-n5_2.vrp,2-Phase with D-Wave,4614,294.5803512050499
+P-n6_1.vrp,2-Phase with D-Wave,4639,133.77840495725354
+P-n4_2.vrp,2-Phase with D-Wave,2642,97.9688472518894
+P-n6_2.vrp,2-Phase with D-Wave,5143,144.52852094292507
+P-n4_1.vrp,2-Phase with D-Wave,2659,74.11646059928054
+P-n8_1.vrp,2-Phase with D-Wave,7573,151.8001337832614
+P-n8_2.vrp,2-Phase with D-Wave,7521,225.1585968547109
+P-n7_2.vrp,2-Phase with LKH-3,717,184.6298725098411
+P-n5_1.vrp,2-Phase with LKH-3,711,120.86493679463923
+P-n7_1.vrp,2-Phase with LKH-3,711,134.93748687048614
+P-n5_2.vrp,2-Phase with LKH-3,694,294.5803512050499
+P-n6_1.vrp,2-Phase with LKH-3,711,130.90826335380046
+P-n4_2.vrp,2-Phase with LKH-3,499,96.48968970007736
+P-n6_2.vrp,2-Phase with LKH-3,723,129.62000745965602
+P-n4_1.vrp,2-Phase with LKH-3,451,69.42267128415534
+P-n8_1.vrp,2-Phase with LKH-3,880,143.32898751275195
+P-n8_2.vrp,2-Phase with LKH-3,783,225.1585968547109
+P-n7_2.vrp,2-Phase with D-Wave,5844,192.505635051782
+P-n5_1.vrp,2-Phase with D-Wave,4358,125.43324376187022
+P-n7_1.vrp,2-Phase with D-Wave,5999,138.91981955548144
+P-n5_2.vrp,2-Phase with D-Wave,4429,294.5803512050499
+P-n6_1.vrp,2-Phase with D-Wave,4797,130.90826335380046
+P-n4_2.vrp,2-Phase with D-Wave,2865,97.96884725188941
+P-n6_2.vrp,2-Phase with D-Wave,5821,144.52852094292507
+P-n4_1.vrp,2-Phase with D-Wave,2833,69.42267128415534
+P-n8_1.vrp,2-Phase with D-Wave,7822,163.31752421856797
+P-n8_2.vrp,2-Phase with D-Wave,7556,231.43450342526788

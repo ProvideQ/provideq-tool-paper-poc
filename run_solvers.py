@@ -52,7 +52,7 @@ def get_kmeans_settings(vrp):
                 "description": "",
                 "min": 1,
                 "max": 1000,
-                "value": get_max_cluster_amount(vrp),
+                "value": 1,
             }
         ],
     }
@@ -87,6 +87,27 @@ def test_vrp_with_kmeans_and_lkh():
         "vrp", get_all_vrp_problems,
         "edu.kit.provideq.toolbox.vrp.solvers.ClusterAndSolveVrpSolver", "LkhVrpSolver with KmeansClusterer",
         solver_per_type, get_kmeans_settings, get_vrp_solution_quality)
+
+def test_vrp_with_2phase_and_dwave():
+    solver_per_type = {
+        "cluster-vrp": lambda: "edu.kit.provideq.toolbox.vrp.clusterer.TwoPhaseClusterer",
+        "tsp": lambda: "edu.kit.provideq.toolbox.tsp.solvers.QuboTspSolver",
+        "qubo": lambda: "edu.kit.provideq.toolbox.qubo.solvers.DwaveQuboSolver"
+    }
+
+    test("vrp", get_all_vrp_problems,
+         "edu.kit.provideq.toolbox.vrp.solvers.ClusterAndSolveVrpSolver", "2-Phase with D-Wave",
+         solver_per_type, lambda _: {}, get_vrp_solution_quality)
+    
+def test_vrp_with_2phase_and_lkh():
+    solver_per_type = {
+        "cluster-vrp": lambda: "edu.kit.provideq.toolbox.vrp.clusterer.TwoPhaseClusterer",
+        "tsp": lambda: "edu.kit.provideq.toolbox.tsp.solvers.LkhTspSolver"
+    }
+
+    test("vrp", get_all_vrp_problems,
+         "edu.kit.provideq.toolbox.vrp.solvers.ClusterAndSolveVrpSolver", "2-Phase with LKH-3",
+         solver_per_type, lambda _: {}, get_vrp_solution_quality)
 
 def test_vrp_with_kmeans_and_xxxxxxxxxxxxxx():
     solver_per_type = {
@@ -127,7 +148,8 @@ with open('results.csv', mode='a', newline='') as file:
         writer.writerow(['problem', 'solver', 'time_milliseconds', 'solution_quality'])
 
     test_vrp_with_kmeans_and_lkh()
-    # test_vrp_with_kmeans_and_xxxxxxxxxxxxxx()
+    # test_vrp_with_2phase_and_lkh()
+    # test_vrp_with_2phase_and_dwave()
 
-    test_knapsack_with_hs()
-    test_knapsack_with_qiskit()
+    # test_knapsack_with_hs()
+    # test_knapsack_with_qiskit()
