@@ -1,5 +1,13 @@
 # provideq-tool-paper-poc
-Proof of Concept implementation for the ProvideQ Tool Paper.
+Proof of Concept implementation for the ProvideQ Tool Paper:
+```bibtex
+@article{eichhorn2025provideq,
+  title = {ProvideQ: A Quantum Optimization Toolbox},
+  author = {Eichhorn, Domenik and Poser, Nick and Schweikart, Maximilian and Schaefer, Ina},
+  journal = {arXiv preprint arXiv:2507.07649},
+  year = {2025}
+}
+```
 
 This repository contains the problem instances for the vehicle routing problem and the knapsack problem, as well as a script to solve the problems with the [ProvideQ Toolbox Api](https://github.com/ProvideQ/toolbox-python-api).
 
